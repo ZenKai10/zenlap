@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "885284014446",
+    "project_id": "zenlap",
+    "storage_bucket": "zenlap.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885284014446:android:4824d17ac69ee19b61197f",
+        "android_client_info": {
+          "package_name": "com.zenlap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClr-W3ARL7blafah09L20RxnRmX_d9HL4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
